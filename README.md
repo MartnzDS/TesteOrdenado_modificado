@@ -1,5 +1,5 @@
-# Integrantes do grupo: Felipe Vieira, Isaac Luís e Victor Martins
-## 1. Enunciado do problema
+## Integrantes do grupo: Felipe Vieira, Isaac Luís e Victor Martins
+# 1. Enunciado do problema
 Objetivo: Implementar os seguintes métodos de ordenação: BubbleSort, InsertionSort, ShellSort.  
 
 Requisitos de Dados: Criar dois conjuntos de vetores de dados (dataset) com valores aleatórios,
